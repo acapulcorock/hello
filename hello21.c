@@ -12,8 +12,8 @@
 int main (int argc, char **argv){
 
 
-    printf("eloy patlanid\n");
-      printf("colaborador\n");
+    printf("loerenzo cordobad\n");
+      printf("corrupto\n");
 
     return 0;
 
